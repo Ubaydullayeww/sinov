@@ -30,9 +30,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       body:  Center(
-        child:  Text('
-                     Uzbekistan
-                     '),
+        child:  Text('uzzzzzzzzz'),
       ),
     );
   }
